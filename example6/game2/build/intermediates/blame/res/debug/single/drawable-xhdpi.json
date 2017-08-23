@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Workspace\\newfolder\\example6\\game2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\Workspace\\newfolder\\example6\\game2\\src\\main\\res\\drawable-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Workspace\\newfolder\\example6\\game2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_banner.png",
+        "source": "D:\\Workspace\\newfolder\\example6\\game2\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    }
+]

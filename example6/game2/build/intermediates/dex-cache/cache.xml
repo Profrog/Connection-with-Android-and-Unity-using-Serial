@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\example\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Workspace\newfolder\example6\game2\example\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_1c3eb2019bc280fc7053fdaee582f447c048074b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\netprog\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Workspace\newfolder\example6\game2\example\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_90ec8c73fc2b649924b26e8df4276a02b5158738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\build\intermediates\exploded-aar\usbSerialForAndroid-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7962fd1e825b96c1feb62a975d34baee8ae98daf">
+        <dex dex="D:\Workspace\newfolder\example6\game2\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-usbSerialForAndroid-release_6b174ce3fcdbc4aa9068d00b93fffad57c1c3b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="632e44dcdc012164827d96f08e88b307d2bfa047">
+        <dex dex="D:\Workspace\newfolder\example6\game2\build\intermediates\pre-dexed\debug\unity-classes_bfb6b0709baa7e44c54df2193eb6d144117fbf8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\example\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Workspace\newfolder\example6\game2\example\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_a2fa21d3876bef6bdb21bc2e7ee34f3456e986ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\example\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Workspace\newfolder\example6\game2\example\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_3a4ca542789545b7adf4b56b69a50c00b762f1ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\example\build\intermediates\exploded-aar\com.felhr.usbserial\usbserial\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52a278484b441d694fe0e2fd4275f5b950fb4f0c">
+        <dex dex="D:\Workspace\newfolder\example6\game2\example\build\intermediates\pre-dexed\debug\com.felhr.usbserial-usbserial-1.0.0_b55a6e24963b579b30a04f43442132e46d72a9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\libs\MyApplication5555.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf092a08cb1b580693651154571c75f6317ab709">
+        <dex dex="D:\Workspace\newfolder\example6\game2\build\intermediates\pre-dexed\debug\MyApplication5555_9266183d91813eab1c8f16173d014bf633d63426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\example\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Workspace\newfolder\example6\game2\example\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_43ed3a00730f09d70838d5f6d6760f32e4a28ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\build\intermediates\exploded-aar\com.github.felHR85\UsbSerial\4.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="D:\Workspace\newfolder\example6\game2\build\intermediates\pre-dexed\debug\com.github.felHR85-UsbSerial-4.5_9485d4a113e94544fe203c7f1c7e692fb4acf2fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\example\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Workspace\newfolder\example6\game2\example\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_ac850cbfafcebba859c33e4383ed65645ef48e03.jar" />
+    </item>
+
+</items>

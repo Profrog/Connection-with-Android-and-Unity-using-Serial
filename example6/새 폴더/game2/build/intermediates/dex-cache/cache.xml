@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\build\intermediates\exploded-aar\com.github.felHR85\UsbSerial\4.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="D:\Workspace\newfolder\example6\game2\build\intermediates\pre-dexed\debug\com.github.felHR85-UsbSerial-4.5_9485d4a113e94544fe203c7f1c7e692fb4acf2fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\build\intermediates\exploded-aar\usbSerialForAndroid-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7962fd1e825b96c1feb62a975d34baee8ae98daf">
+        <dex dex="D:\Workspace\newfolder\example6\game2\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-usbSerialForAndroid-release_6b174ce3fcdbc4aa9068d00b93fffad57c1c3b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="632e44dcdc012164827d96f08e88b307d2bfa047">
+        <dex dex="D:\Workspace\newfolder\example6\game2\build\intermediates\pre-dexed\debug\unity-classes_bfb6b0709baa7e44c54df2193eb6d144117fbf8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\newfolder\example6\game2\libs\MyApplication5555.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf092a08cb1b580693651154571c75f6317ab709">
+        <dex dex="D:\Workspace\newfolder\example6\game2\build\intermediates\pre-dexed\debug\MyApplication5555_9266183d91813eab1c8f16173d014bf633d63426.jar" />
+    </item>
+
+</items>
